@@ -1,0 +1,300 @@
+
+----------------------------------
+theta x:40 ** PP **
+Derived PP: [322.39 239.21]
+PP GT: [320.00 240.00]
+** error to mean of 20 experimental result **
+mean = 0.0
+std  = 0.0
+max  = 0.0
+min  = 0.0
+theta x:40 ** error to PP GT **
+mean = 2.518948
+std  = 0.0
+max  = 2.518948
+min  = 2.518948 , experiment_1-ith
+
+----------------------------------
+theta x:40 ** PP **
+Derived PP: [318.78 243.01]
+PP GT: [320.00 240.00]
+** error to mean of 20 experimental result **
+mean = 0.0
+std  = 0.0
+max  = 0.0
+min  = 0.0
+theta x:40 ** error to PP GT **
+mean = 3.247478
+std  = 0.0
+max  = 3.247478
+min  = 3.247478 , experiment_1-ith
+
+----------------------------------
+theta x:40 ** PP **
+Derived PP: [320.59 238.97]
+PP GT: [320.00 240.00]
+** error to mean of 20 experimental result **
+mean = 0.0
+std  = 0.0
+max  = 0.0
+min  = 0.0
+theta x:40 ** error to PP GT **
+mean = 1.1935637
+std  = 0.0
+max  = 1.1935637
+min  = 1.1935637 , experiment_1-ith
+
+----------------------------------
+theta x:40 ** PP **
+Derived PP: [322.40 239.76]
+PP GT: [320.00 240.00]
+** error to mean of 20 experimental result **
+mean = 0.0
+std  = 0.0
+max  = 0.0
+min  = 0.0
+theta x:40 ** error to PP GT **
+mean = 2.4127476
+std  = 0.0
+max  = 2.4127476
+min  = 2.4127476 , experiment_1-ith
+
+----------------------------------
+theta x:40 ** PP **
+Derived PP: [320.44 239.24]
+PP GT: [320.00 240.00]
+** error to mean of 20 experimental result **
+mean = 0.0
+std  = 0.0
+max  = 0.0
+min  = 0.0
+theta x:40 ** error to PP GT **
+mean = 0.8825588
+std  = 0.0
+max  = 0.8825588
+min  = 0.8825588 , experiment_1-ith
+
+----------------------------------
+theta x:40 ** PP **
+Derived PP: [321.64 239.02]
+PP GT: [320.00 240.00]
+** error to mean of 20 experimental result **
+mean = 0.0
+std  = 0.0
+max  = 0.0
+min  = 0.0
+theta x:40 ** error to PP GT **
+mean = 1.9083464
+std  = 0.0
+max  = 1.9083464
+min  = 1.9083464 , experiment_1-ith
+
+----------------------------------
+theta x:40 ** PP **
+Derived PP: [320.09 240.33]
+PP GT: [320.00 240.00]
+** error to mean of 20 experimental result **
+mean = 0.0
+std  = 0.0
+max  = 0.0
+min  = 0.0
+theta x:40 ** error to PP GT **
+mean = 0.33877167
+std  = 0.0
+max  = 0.33877167
+min  = 0.33877167 , experiment_1-ith
+
+----------------------------------
+theta x:40 ** PP **
+Derived PP: [319.86 237.27]
+PP GT: [320.00 240.00]
+** error to mean of 20 experimental result **
+mean = 0.0
+std  = 0.0
+max  = 0.0
+min  = 0.0
+theta x:40 ** error to PP GT **
+mean = 2.7322917
+std  = 0.0
+max  = 2.7322917
+min  = 2.7322917 , experiment_1-ith
+
+----------------------------------
+theta x:40 ** PP **
+Derived PP: [321.01 238.43]
+PP GT: [320.00 240.00]
+** error to mean of 20 experimental result **
+mean = 0.0
+std  = 0.0
+max  = 0.0
+min  = 0.0
+theta x:40 ** error to PP GT **
+mean = 1.8645556
+std  = 0.0
+max  = 1.8645556
+min  = 1.8645556 , experiment_1-ith
+
+----------------------------------
+theta x:40 ** PP **
+Derived PP: [317.36 238.50]
+PP GT: [320.00 240.00]
+** error to mean of 20 experimental result **
+mean = 0.0
+std  = 0.0
+max  = 0.0
+min  = 0.0
+theta x:40 ** error to PP GT **
+mean = 3.0329192
+std  = 0.0
+max  = 3.0329192
+min  = 3.0329192 , experiment_1-ith
+
+----------------------------------
+theta x:40 ** PP **
+Derived PP: [322.26 239.32]
+PP GT: [320.00 240.00]
+** error to mean of 20 experimental result **
+mean = 0.0
+std  = 0.0
+max  = 0.0
+min  = 0.0
+theta x:40 ** error to PP GT **
+mean = 2.3644276
+std  = 0.0
+max  = 2.3644276
+min  = 2.3644276 , experiment_1-ith
+
+----------------------------------
+theta x:40 ** PP **
+Derived PP: [319.15 241.58]
+PP GT: [320.00 240.00]
+** error to mean of 20 experimental result **
+mean = 0.0
+std  = 0.0
+max  = 0.0
+min  = 0.0
+theta x:40 ** error to PP GT **
+mean = 1.7953292
+std  = 0.0
+max  = 1.7953292
+min  = 1.7953292 , experiment_1-ith
+
+----------------------------------
+theta x:40 ** PP **
+Derived PP: [319.15 238.27]
+PP GT: [320.00 240.00]
+** error to mean of 20 experimental result **
+mean = 0.0
+std  = 0.0
+max  = 0.0
+min  = 0.0
+theta x:40 ** error to PP GT **
+mean = 1.9211254
+std  = 0.0
+max  = 1.9211254
+min  = 1.9211254 , experiment_1-ith
+
+----------------------------------
+theta x:40 ** PP **
+Derived PP: [319.84 240.57]
+PP GT: [320.00 240.00]
+** error to mean of 20 experimental result **
+mean = 0.0
+std  = 0.0
+max  = 0.0
+min  = 0.0
+theta x:40 ** error to PP GT **
+mean = 0.59275186
+std  = 0.0
+max  = 0.59275186
+min  = 0.59275186 , experiment_1-ith
+
+----------------------------------
+theta x:40 ** PP **
+Derived PP: [318.39 241.18]
+PP GT: [320.00 240.00]
+** error to mean of 20 experimental result **
+mean = 0.0
+std  = 0.0
+max  = 0.0
+min  = 0.0
+theta x:40 ** error to PP GT **
+mean = 1.9952954
+std  = 0.0
+max  = 1.9952954
+min  = 1.9952954 , experiment_1-ith
+
+----------------------------------
+theta x:40 ** PP **
+Derived PP: [321.29 239.97]
+PP GT: [320.00 240.00]
+** error to mean of 20 experimental result **
+mean = 0.0
+std  = 0.0
+max  = 0.0
+min  = 0.0
+theta x:40 ** error to PP GT **
+mean = 1.293675
+std  = 0.0
+max  = 1.293675
+min  = 1.293675 , experiment_1-ith
+
+----------------------------------
+theta x:40 ** PP **
+Derived PP: [319.17 238.87]
+PP GT: [320.00 240.00]
+** error to mean of 20 experimental result **
+mean = 0.0
+std  = 0.0
+max  = 0.0
+min  = 0.0
+theta x:40 ** error to PP GT **
+mean = 1.3998729
+std  = 0.0
+max  = 1.3998729
+min  = 1.3998729 , experiment_1-ith
+
+----------------------------------
+theta x:40 ** PP **
+Derived PP: [319.25 237.53]
+PP GT: [320.00 240.00]
+** error to mean of 20 experimental result **
+mean = 0.0
+std  = 0.0
+max  = 0.0
+min  = 0.0
+theta x:40 ** error to PP GT **
+mean = 2.5815685
+std  = 0.0
+max  = 2.5815685
+min  = 2.5815685 , experiment_1-ith
+
+----------------------------------
+theta x:40 ** PP **
+Derived PP: [322.25 239.40]
+PP GT: [320.00 240.00]
+** error to mean of 20 experimental result **
+mean = 0.0
+std  = 0.0
+max  = 0.0
+min  = 0.0
+theta x:40 ** error to PP GT **
+mean = 2.3294759
+std  = 0.0
+max  = 2.3294759
+min  = 2.3294759 , experiment_1-ith
+
+----------------------------------
+theta x:40 ** PP **
+Derived PP: [318.10 239.95]
+PP GT: [320.00 240.00]
+** error to mean of 20 experimental result **
+mean = 0.0
+std  = 0.0
+max  = 0.0
+min  = 0.0
+theta x:40 ** error to PP GT **
+mean = 1.8977911
+std  = 0.0
+max  = 1.8977911
+min  = 1.8977911 , experiment_1-ith

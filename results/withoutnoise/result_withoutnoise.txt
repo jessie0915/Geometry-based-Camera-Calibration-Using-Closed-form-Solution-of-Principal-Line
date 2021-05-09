@@ -1,0 +1,15 @@
+
+----------------------------------
+theta x:45 ** PP **
+Derived PP: [320.00 240.00]
+PP GT: [320.00 240.00]
+** error to mean of 20 experimental result **
+mean = 0.0
+std  = 0.0
+max  = 0.0
+min  = 0.0
+theta x:45 ** error to PP GT **
+mean = 1.5258789e-05
+std  = 0.0
+max  = 1.5258789e-05
+min  = 1.5258789e-05 , experiment_1-ith
