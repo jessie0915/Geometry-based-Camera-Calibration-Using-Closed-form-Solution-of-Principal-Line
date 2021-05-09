@@ -57,7 +57,6 @@ And once we can capture at least two images of calibration plane with different 
     
     + Step 2: Derive other intrinsic parameters by following equations
     ![](https://github.com/jessie0915/Geometry-based-Camera-Calibration-Using-Closed-form-Solution-of-Principal-Line/blob/master/picture/pic_find_FL_2.png)
-    
     Therefore, we can directly calculate focal length, the pitch angle gamma, and translation distance in z direction. 
     In the special geometric relationship, we know gamma and Tz are extrinsic parameters.
     However, if we want to calculate the extrinsic parameters in original relation, all steps are the same as Zhang’s Method. So, we will not talk about the detail.
@@ -65,7 +64,13 @@ And once we can capture at least two images of calibration plane with different 
 ## Closed-Form Solution
 + **Intrinsic Parameters**
 
+![](https://github.com/jessie0915/Geometry-based-Camera-Calibration-Using-Closed-form-Solution-of-Principal-Line/blob/master/picture/pic_closeformsol_intrinsic.png)
 + **Extrinsic Parameters**
+
+![](https://github.com/jessie0915/Geometry-based-Camera-Calibration-Using-Closed-form-Solution-of-Principal-Line/blob/master/picture/pic_closeformsol_extrinsic.png)
+
+## Flowchart of the proposed calibration process
+![](https://github.com/jessie0915/Geometry-based-Camera-Calibration-Using-Closed-form-Solution-of-Principal-Line/blob/master/picture/pic_flowchart.png)
 
 
  
