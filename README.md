@@ -169,3 +169,32 @@ As suggested in paper, a good set of images should (i) have  gamma close to 45°
     + It is readily observable from Table VI that our approach still performs satisfactorily and generates results similar to those for Sets 14 and 15.
     + However, significantly worse results are obtained with Zhang’s method which assumed fixed FL. In particular, the estimated FL (3953.0) is quite different from the two FLs obtained for the fixed cases (3822.3 and 4712.5).
 
+# How to use
+
+## Synthetic Data
+
+Step 1. open `./code/FINAL_virtual_pattern.py`
+
+Step 2. change parameters for your application (the default values can be run well)
+
+Step 3. run the program
+
+
+## Real Data
+
+Step 1. take _n_ x _m_ chessboard pictures in the folder with path `./data/captured_nxm/logi/forder_name`, for example, `./data/captured_7x8/logi/Set8`
+
+Step 2. open `./code/FINAL_real experiment.py`
+
+Step 3. change parameters for your application (the default values can be run well for 7x8 chessboard)
+
+```py
+MODE = 'captured_nxm'
+SET_FOLDER = 'Set8'
+show_all_img_with_lines = True
+PATH_RESULT = "../results"
+PATH_CAPTURED_PATTERN = '../data/'+MODE+'/logi/'+SET_FOLDER+'/'
+PATH_CORNERS_DETECTED = PATH_RESULT + '/data/'+MODE+'/logi/'+SET_FOLDER+'/'
+```
+
+Step 4. run the program
