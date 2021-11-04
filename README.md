@@ -195,6 +195,10 @@ show_all_img_with_lines = True
 PATH_RESULT = "../results"
 PATH_CAPTURED_PATTERN = '../data/'+MODE+'/logi/'+SET_FOLDER+'/'
 PATH_CORNERS_DETECTED = PATH_RESULT + '/data/'+MODE+'/logi/'+SET_FOLDER+'/'
+
+if MODE == 'captured_7x8':
+    PTS_VER = 6
+    PTS_HOR = 7
 ```
 
 Step 4. run the program
