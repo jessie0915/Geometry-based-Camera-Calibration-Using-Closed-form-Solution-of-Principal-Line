@@ -1,5 +1,7 @@
 # Geometry-based Camera Calibration Using Closed-form Solution of Principal Line
  
+ https://github.com/jessie0915/Geometry-based-Camera-Calibration-Using-Closed-form-Solution-of-Principal-Line
+ 
 ## Goal: Solve two issues of traditional camera calibration
 
 (i) The checkerboard patterns are usually placed randomly and used all together, without a systematic procedure to screen out ill-posed patterns
